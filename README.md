@@ -1,6 +1,6 @@
 # 🗨️ Mern Chatting Website
 
-It is a real-time chat website where two users can chat with each other, send images, and can also update their profile image. The platform requires users to sign up, then log in to start chatting. This application is built using the **MERN Stack** and features real-time functionality with **Socket.IO**.
+It is a real-time chat website where two users can chat with each other, send images, and also update their profile image. The platform requires users to sign up, then log in to start chatting. This application is built using the **MERN Stack** and features real-time functionality with **Socket.IO**.
 
 ![](Frontend/public/screenshot.png)
 
@@ -9,6 +9,7 @@ It is a real-time chat website where two users can chat with each other, send im
 - 💬 **Real-time Chat**: Users can chat with each other in real-time.
 - 🖼️ **Image Sharing**: Send and receive images during chats.
 - 🖼️ **Profile Picture Update**: Users can update their profile images.
+- 🖥️ **Online Indicator**: When a user comes online, others will see an "Online" indicator next to their profile, indicating they are currently active on the website.
 - 📝 **Sign Up / Log In**: Users must sign up and log in to use the website.
 - 🔒 **Secure**: User authentication security using **JWT** and password hashing with **bcrypt.js**.
 
